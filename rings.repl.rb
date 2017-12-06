@@ -2,7 +2,7 @@ class RingsRepl < Formula
   desc "Rings: efficient Java/Scala library for polynomial rings"
   homepage "http://ringsalgebra.io/"
   url "https://raw.githubusercontent.com/PoslavskySV/rings/v2.2/rings.repl/rings.repl", :using => :nounzip
-  sha256 "e0edbbb50b0e5bace149cb5524d9bd741494b4cdd8fd1f4b2d5da4ff9f7b4537"
+  sha256 "a5af361bc005d96c7cca977cb4f2fe4f86004d6e416f499f4c185029966e8771"
 
   depends_on "ammonite-repl"
 
