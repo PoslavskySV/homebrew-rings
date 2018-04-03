@@ -3,7 +3,7 @@ class Algebench < Formula
   homepage "https://github.com/PoslavskySV/algebench"
   url "https://github.com/PoslavskySV/algebench/releases/download/v1.0/algebench-1.0.zip"
   version "1.0"
-  sha256 "621986bf1a361124ecfbaaeba014b1f58c691347e7e127871d129f8300fa99e1"
+  sha256 "152084fafe1a212b9f876ea7f8914e120546a4afb9a466164f12f93d42c2bdcd"
 
   depends_on :java
 
